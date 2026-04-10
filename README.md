@@ -1,3 +1,15 @@
+## Docker image
+### Download image
+link:`` 
+
+### Docker load and run
+`docker load -i ampliconcn.tar`
+`docker run -d -p 8501:8501 --name ampliconcn --restart unless-stopped ampliconcn:latest`
+
+### Local search
+link:`localhost:8501`
+
+
 ## Download Files Description
 
 ### Genome Metadata
