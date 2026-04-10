@@ -1,4 +1,4 @@
-## Docker image
+## 1.Docker image
 ### Download image
 link:`` 
 
@@ -13,7 +13,7 @@ docker run -d -p 8501:8501 --name ampliconcn --restart unless-stopped ampliconcn
 link:`localhost:8501`
 
 
-## Download Files Description
+## 2.Download Files Description
 
 ### Genome Metadata
 - **archaea_genome_info.zip**  
